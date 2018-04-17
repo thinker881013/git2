@@ -1,5 +1,5 @@
 111111111111111111111111111111111
 
 clone add git2-2
-add by git2
+add by git2 ..
 addby git2-2
